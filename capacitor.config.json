@@ -1,0 +1,8 @@
+{
+ "appId": "com.laura.assistant",
+ "appName": "Laura",
+ "webDir": "docs",
+ "server": {
+  "androidScheme": "https"
+ }
+}
